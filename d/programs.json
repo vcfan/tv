@@ -1,0 +1,166 @@
+[
+  {
+    "title": "Marathi Entertainment",
+    "list": [
+      {
+        "id": 501,
+        "contentType": "DEFAULT",
+        "title": "Zee Marathi HD",
+        "imageUrl": "https://raw.githubusercontent.com/vcfan/tv/main/i/Zee_Marathi_HD.jpg",
+        "description": "Marathi, Entertainment",
+        "pkg": 1000001099
+      },
+      {
+        "id": 469,
+        "contentType": "DEFAULT",
+        "title": "Star Pravah HD",
+        "imageUrl": "https://raw.githubusercontent.com/vcfan/tv/main/i/Star_Pravah_HD.jpg",
+        "description": "Marathi, Entertainment",
+        "pkg": 1000001099
+      },
+      {
+        "id": 308,
+        "contentType": "DEFAULT",
+        "title": "Colors Marathi HD",
+        "imageUrl": "https://raw.githubusercontent.com/vcfan/tv/main/i/Colors_Marathi_HD.jpg",
+        "description": "Marathi, Entertainment",
+        "pkg": 1000001099
+      },
+      {
+        "id": 248,
+        "contentType": "DEFAULT",
+        "title": "Zee Yuva",
+        "imageUrl": "https://raw.githubusercontent.com/vcfan/tv/main/i/Zee_Yuva.jpg",
+        "description": "Showcase of various videos in a vertical grid",
+        "pkg": 1000001099
+      }
+    ]
+  },
+  {
+    "title": "Hindi Entertainment",
+    "list": [
+      {
+        "id": 8,
+        "contentType": "DEFAULT",
+        "title": "Star Plus HD",
+        "imageUrl": "https://raw.githubusercontent.com/vcfan/tv/main/i/Star_Plus_HD.jpg",
+        "description": "Hindi, Entertainment",
+        "pkg": 1000001091
+      },
+      {
+        "id": 63,
+        "contentType": "DEFAULT",
+        "title": "Zee TV HD",
+        "imageUrl": "https://raw.githubusercontent.com/vcfan/tv/main/i/Zee_TV_HD.jpg",
+        "description": "Hindi, Entertainment",
+        "pkg": 1000001091
+      },
+      {
+        "id": 52,
+        "contentType": "DEFAULT",
+        "title": "Colors HD",
+        "imageUrl": "https://raw.githubusercontent.com/vcfan/tv/main/i/Colors_HD.jpg",
+        "description": "Hindi, Entertainment",
+        "pkg": 1000001091
+      },
+      {
+        "id": 15,
+        "contentType": "DEFAULT",
+        "title": "Sony SET HD",
+        "imageUrl": "https://raw.githubusercontent.com/vcfan/tv/main/i/Sony_HD.jpg",
+        "description": "Hindi, Entertainment",
+        "pkg": 1000001091
+      },
+      {
+        "id": 48,
+        "contentType": "DEFAULT",
+        "title": "Sony SAB HD",
+        "imageUrl": "https://raw.githubusercontent.com/vcfan/tv/main/i/Sony_SAB_HD.jpg",
+        "description": "Hindi, Entertainment",
+        "pkg": 1000001091
+      }
+    ]
+  },
+  {
+    "title": "Infotainment, Science",
+    "list": [
+      {
+        "id": 341,
+        "contentType": "DEFAULT",
+        "title": "Discovery HD World",
+        "imageUrl": "https://raw.githubusercontent.com/vcfan/tv/main/i/Discovery_HD_World.jpg",
+        "description": "Knowledge, Nature, Science, Documentary",
+        "pkg": 1000001088
+      },
+      {
+        "id": 287,
+        "contentType": "DEFAULT",
+        "title": "Animal_Planet_HD",
+        "imageUrl": "https://raw.githubusercontent.com/vcfan/tv/main/i/Animal_Planet_HD.jpg",
+        "description": "Knowledge, Nature, Science, Documentary",
+        "pkg": 1000001088
+      },
+      {
+        "id": 616,
+        "contentType": "DEFAULT",
+        "title": "History 18 HD ",
+        "imageUrl": "https://raw.githubusercontent.com/vcfan/tv/main/i/History_18_Hindi.jpg",
+        "description": "Knowledge, Nature, Science, Documentary",
+        "pkg": 1000001091
+      },
+      {
+        "id": 113,
+        "contentType": "DEFAULT",
+        "title": "Discovery Science",
+        "imageUrl": "https://raw.githubusercontent.com/vcfan/tv/main/i/Discovery_Science.jpg",
+        "description": "Knowledge, Nature, Science, Documentary",
+        "pkg": 1000001088
+      },
+      {
+        "id": 228,
+        "contentType": "DEFAULT",
+        "title": "Discovery Turbo",
+        "imageUrl": "https://raw.githubusercontent.com/vcfan/tv/main/i/Discovery_Turbo.jpg",
+        "description": "Knowledge, Nature, Science, Documentary",
+        "pkg": 1000001088
+      }
+	]
+  },
+  {
+    "title": "Lifestyle, Travel",
+    "list": [
+      {
+        "id": 484,
+        "contentType": "DEFAULT",
+        "title": "Travel XP HD",
+        "imageUrl": "https://raw.githubusercontent.com/vcfan/tv/main/i/Travel_XP_HD.jpg",
+        "description": "Travel, Food, Lifestyle",
+        "pkg": 1000001085
+      },
+      {
+        "id": 480,
+        "contentType": "DEFAULT",
+        "title": "TLC HD World",
+        "imageUrl": "https://raw.githubusercontent.com/vcfan/tv/main/i/TLC_HD_World.jpg",
+        "description": "Travel, Food, Lifestyle",
+        "pkg": 1000001088
+      },
+	  {
+        "id": 117,
+        "contentType": "DEFAULT",
+        "title": "Food Food",
+        "imageUrl": "https://raw.githubusercontent.com/vcfan/tv/main/i/Food_Food.jpg",
+        "description": "Lifestyle, Food",
+        "pkg": 1000001088
+      },
+      {
+        "id": 367,
+        "contentType": "DEFAULT",
+        "title": "Fox Life HD",
+        "imageUrl": "https://raw.githubusercontent.com/vcfan/tv/main/i/Fox_Life_HD.jpg",
+        "description": "Lifestyle, Food, Travel",
+        "pkg": 1000001085
+      }
+    ]
+  }
+]
