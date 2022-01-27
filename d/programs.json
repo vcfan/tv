@@ -33,6 +33,14 @@
         "imageUrl": "https://raw.githubusercontent.com/vcfan/tv/main/i/Zee_Yuva.jpg",
         "description": "Showcase of various videos in a vertical grid",
         "pkg": 1000001099
+      },
+      {
+        "id": 515,
+        "contentType": "DEFAULT",
+        "title": "Zee Talkies HD",
+        "imageUrl": "https://raw.githubusercontent.com/vcfan/tv/main/i/Zee_Talkies_HD.jpg",
+        "description": "Showcase of various videos in a vertical grid",
+        "pkg": 1000001099
       }
     ]
   },
